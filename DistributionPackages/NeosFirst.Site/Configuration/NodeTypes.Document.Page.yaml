@@ -1,0 +1,7 @@
+'NeosFirst.Site:Document.Page':
+  superTypes:
+    'NeosFirst.Site:Document.AbstractPage': true
+  ui:
+    label: i18n
+    icon: file-o
+    position: 100
